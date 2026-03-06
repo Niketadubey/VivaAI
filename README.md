@@ -66,5 +66,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Connect with Me
 
 - **Prakhar Doneria**
-- LinkedIn: [in/prakhardoneria](https://www.linkedin.com/in/prakhardoneria/)
+- LinkedIn: [in/prakhardoneria](https://www.linkedin.com/in/prakhar-doneria/)
 - Instagram: [@prakhardoneria](https://instagram.com/prakhardoneria)
+`
